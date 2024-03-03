@@ -40,7 +40,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: pranit007/weather-app-frontend:v1
+        image: pranit007/weather-app-frontend:v3
         ports:
         - containerPort: 80
         resources:
